@@ -6,10 +6,13 @@
 [2,6,16,18,22,27] -> 1
 
 2) n + (n-1) + (n-2)+ ....+1
-    (n^2 + n)/2 -> O[n^2]
+    (n² + n)/2 -> O[n²]
 3)Time complexity:
-Average Case and Worst Case
-4)Average Case 
+Average Case = 16,18
+Worst Case = 27
+Best Case =2
+
+4)Average Case = 18
 
 [7,3,5,8,2,9,4,15,6] 
 [2,3,5,8,7,9,4,15,6] 1.step
